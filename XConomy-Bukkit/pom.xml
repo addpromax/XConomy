@@ -154,9 +154,9 @@
         </dependency>
         <!--Vault-->
         <dependency>
-            <groupId>com.github.MilkBowl</groupId>
-            <artifactId>VaultAPI</artifactId>
-            <version>1.7</version>
+            <groupId>net.milkbowl.vault</groupId>
+            <artifactId>VaultUnlockedAPI</artifactId>
+            <version>2.2</version>
             <scope>provided</scope>
         </dependency>
         <!--Placeholder API-->
